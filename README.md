@@ -1,5 +1,5 @@
 # cra-templete
-# 추가 기능을 더한 cra-template # 절대경로 # 문법 포맷팅 
+- 추가 기능을 더한 cra-template # 절대경로 # 문법 포맷팅 
 
 ## 실행방법
 ```javascript
